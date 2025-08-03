@@ -1,0 +1,16 @@
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/PreProject311Application.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/config/DataInitializer.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/controller/AdminController.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/controller/PageController.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/controller/UserController.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/converter/RoleConverter.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/model/Role.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/model/User.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/repositories/RoleRepository.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/repositories/UserRepository.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/security/LoginSuccessHandler.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/security/SecurityConfig.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/service/RoleService.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/service/RoleServiceImpl.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/service/UserService.java
+/Users/misakgrigoran/IdeaProjects/PreProject313/src/main/java/web/PreProject311/service/UserServiceImpl.java

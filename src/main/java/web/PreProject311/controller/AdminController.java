@@ -107,4 +107,10 @@ public class AdminController {
         }
     }
 
+    @GetMapping("/profile")
+    public ResponseEntity<User> getUserProfile(Principal principal) {
+        String username = principal.getName();
+        User current = (User) userService.loadUserByUsername(username);
+        return ResponseEntity.ok(current);
+    }
 }

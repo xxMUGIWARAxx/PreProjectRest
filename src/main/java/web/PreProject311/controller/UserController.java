@@ -11,7 +11,7 @@ import web.PreProject311.service.UserService;
 import java.security.Principal;
 
 @RestController
-@RequestMapping("/api/user")
+@RequestMapping("/user")
 public class UserController {
     private final UserService userService;
 

@@ -78,7 +78,7 @@ $(document).ready(function() {
 });
 
 function loadCurrentUserProfile() {
-    fetch('/api/user/profile')
+    fetch('/user/profile')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to fetch user profile');
